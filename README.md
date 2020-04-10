@@ -1,0 +1,2 @@
+# COVID-19_plot_training
+Python会新歓オンラインイベント2020のハンズオンです
