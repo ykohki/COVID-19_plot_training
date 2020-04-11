@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <!-- レスポンシブに対応させる -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
-<title>テストサイト</title>
+<title>COVID-19 Python plot</title>
 <link rel="stylesheet" href="css/reset.css">
 <style>
 /* h1のデザイン */
@@ -116,21 +116,29 @@ section {
 
     <h2>コロプレス図 -folium-</h2>
     <div class="box2">
-        <p><font size="5">ここに文章</font></p>
-        <iframe src="/Users/yamada/python/COVID2019/python_tutorial/fig/folium/latest_YlOrRd_top10.html" width="90%" height="500px"></iframe>
+        <p><font size="5">感染者数Top10の国にfocus (4/10現在)</font></p>
+        <iframe src="./fig/folium/latest_YlOrRd_top10.html" width="90%" height="500px"></iframe>
     </div>
     <div class="box2">
-        <p><font size="5">ここに文章</font></p>
-        <iframe src="/Users/yamada/python/COVID2019/python_tutorial/fig/folium/latest_YlOrRd_top10.html" width="90%" height="500px"></iframe>
+        <p><font size="5">3/1現在の様子</font></p>
+        <iframe src="./fig/folium/3-1_YlOrRd.html" width="90%" height="500px"></iframe>
     </div>
+    <div class="box2">
+      <p><font size="5">2/1現在の様子</font></p>
+      <iframe src="./fig/folium/2-1_YlOrRd.html" width="90%" height="500px"></iframe>
+  </div>
     <h2>インタラクティブなplot -Bokeh-</h2>
     <div class="box2">
-        <p><font size="5">ここに文章</font></p>
-        <iframe src="/Users/yamada/python/COVID2019/python_tutorial/fig/folium/latest_YlOrRd_top10.html" width="90%" height="500px"></iframe>
+        <p><font size="5">JPNとUSAの比較（感染者数）</font></p>
+        <iframe src="./fig/interactive/bokeh_line_jpn_usa.html" width="90%" height="500px"></iframe>
     </div>
     <div class="box2">
-        <p><font size="5">ここに文章</font></p>
-        <iframe src="/Users/yamada/python/COVID2019/python_tutorial/fig/folium/latest_YlOrRd_top10.html" width="90%" height="500px"></iframe>
+      <p><font size="5">USAとESPの比較（感染者数）</font></p>
+      <iframe src="./fig/interactive/bokeh_line_esp_usa.html" width="90%" height="500px"></iframe>
+    </div>
+    <div class="box2">
+      <p><font size="5">感染者数Top10の国（4/10現在）</font></p>
+      <iframe src="./fig/interactive/bokeh_line_top10.html" width="90%" height="500px"></iframe>
     </div>
 
     <h2>Souce Code</h2>
