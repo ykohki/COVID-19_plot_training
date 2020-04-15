@@ -1,4 +1,4 @@
-# COVID-19 plot training
+# ＣＯＶＩＤ−１９のデータを可視化してみよう
 Python会新歓オンラインイベント2020のハンズオンです。
 
 ![](./表紙.jpeg)
@@ -13,6 +13,10 @@ Python会新歓オンラインイベント2020のハンズオンです。
 
 ## できあがりのplotが見れる参考ページ
 [COVID-19 Python plot](https://ykohki.github.io/COVID-19_plot_training/)
+
+## アンケート
+[ハンズオン参加者アンケート【Python会】](https://docs.google.com/forms/d/e/1FAIpQLSemT0O9ptMNyue6kqsfyzC1K3iSY5cCQVI28RZ64pGD_tpJFA/viewform)  
+ご参加の後はこちらのアンケートのご協力お願い致します。
 
 ## 当日のメモ
 リンク共有などで活用するかもしれません。
