@@ -28,8 +28,8 @@ Python会新歓オンラインイベント2020のハンズオンです。
 
 ## 参考
 - ブログ記事  
-
-個人のブログです。
+[COVID-19のデータを可視化してみた【Python】-Med Python](https://medpython.blogspot.com/2020/04/covid19-python-plot.html)  
+個人のブログです。解説を添えてあります。
 
 ## Python会
 
