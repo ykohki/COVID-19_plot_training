@@ -14,11 +14,20 @@ Python会新歓オンラインイベント2020のハンズオンです。
 ## できあがりのplotが見れる参考ページ
 [COVID-19 Python plot](https://ykohki.github.io/COVID-19_plot_training/)
 
-## アンケート
+## 当日について
+### Comment Screenの活用
+[Comment Screen](https://commentscreen.com/)  
+
+`#oumedpython`のハッシュタグにて、コメントを書き込むとホスト側のPCにリアルタイムで表示され流れていきます。
+
+入力ページ：[CommentScreen #oumedpython](https://commentscreen.com/comments?room=oumedpython)  
+[![Image from Gyazo](https://i.gyazo.com/08a7717491823a2b4c00952f4804008d.png)](https://gyazo.com/08a7717491823a2b4c00952f4804008d)
+
+### アンケート
 [ハンズオン参加者アンケート【Python会】](https://docs.google.com/forms/d/e/1FAIpQLSemT0O9ptMNyue6kqsfyzC1K3iSY5cCQVI28RZ64pGD_tpJFA/viewform)  
 ご参加の後はこちらのアンケートのご協力お願い致します。
 
-## 当日のメモ
+### 当日のメモ
 リンク共有などで活用するかもしれません。
 - [阪医Python会_ハンズオン_当日の共有メモ【2020/04/18】 - Google ドキュメント](https://docs.google.com/document/d/1wibNdCb07oEOa_8f0rxs6tYK_hd8lrY4vpCHDnzTjEk/edit)
 - [阪医Python会_ハンズオン_当日の共有メモ【2020/04/25】 - Google ドキュメント](https://docs.google.com/document/d/1dMymkiDLQHq5kPwMDiy_P2-tEHQAiQSuVNyCkg4nDA4/edit)
