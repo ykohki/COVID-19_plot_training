@@ -1,7 +1,7 @@
 # COVID-19のデータを可視化してみよう
 Python会新歓オンラインイベント2020のハンズオンです。
 
-![](./表紙.jpeg)
+<img src="./表紙.jpeg" width="70%">
 
 ## 資料
 - Googleドライブ  
@@ -9,7 +9,7 @@ Python会新歓オンラインイベント2020のハンズオンです。
 - google colab  
 [COVID19_python_plot.ipynb - Colaboratory](https://colab.research.google.com/drive/1J6GwZwJ466NCXp1k3eXHHnvKlu8iKnWA#scrollTo=vd33Daxnxmm4&uniqifier=3)  
 - スライド  
-[【阪医Python会 2020新歓ハンズオン】COVID-19のデータを可視化してみよう](https://www.slideshare.net/secret/1Vcu53Q4WMRUx)
+[【阪医Python会 2020新歓ハンズオン】COVID-19のデータを可視化してみよう - Speaker Deck](https://speakerdeck.com/ykohki/ban-yi-pythonhui-2020xin-huan-hanzuon-covid-19falsedetawoke-shi-hua-sitemiyou)
 
 ## できあがりのplotが見れる参考ページ
 [COVID-19 Python plot](https://ykohki.github.io/COVID-19_plot_training/)
