@@ -15,6 +15,19 @@ Python会新歓オンラインイベント2020のハンズオンです。
 [COVID-19 Python plot](https://ykohki.github.io/COVID-19_plot_training/)
 
 ## 当日について
+### Zoomのリンク
+40分ごとに1度再接続となります。  
+2回目移行のルームのリンクはこちらになります。  
+パスワードは事前にお知らせしている、はじめのルームのパスワードと同じです。  
+
+- 4/18  
+[阪医Python会オンラインハンズオン_day1②](https://us04web.zoom.us/j/76151198174?pwd=MDVaQUJEenRXRmhGOFgwQ3dGN1VsUT09)  
+[阪医Python会オンラインハンズオン_day1③](https://us04web.zoom.us/j/74889827288?pwd=V2xpWS90cTZTM2NDU2pYaVdTaUFVQT09)
+
+- 4/25  
+[阪医Python会オンラインハンズオン_day2②](https://us04web.zoom.us/j/79111089386?pwd=b2R1blB0dWlaUWdwZzZyOHNVV2VYQT09)  
+[阪医Python会オンラインハンズオン_day2③](https://us04web.zoom.us/j/75697457257?pwd=Y2RlYnpvakprcFoxa1VGT1ZPR2NTQT09)
+
 ### Comment Screenの活用
 [Comment Screen](https://commentscreen.com/)  
 
