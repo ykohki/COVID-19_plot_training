@@ -8,6 +8,8 @@ Python会新歓オンラインイベント2020のハンズオンです。
 [新歓2020ハンズオン_COVID-19 - Google ドライブ](https://drive.google.com/drive/folders/146_RzcB8AeKZ0eMacSE-9IvpzLXBBIDF?usp=sharing)  
 - google colab  
 [COVID19_python_plot.ipynb - Colaboratory](https://colab.research.google.com/drive/1J6GwZwJ466NCXp1k3eXHHnvKlu8iKnWA#scrollTo=vd33Daxnxmm4&uniqifier=3)  
+→Google Colabが開けない方はこちらをご覧下さい：[COVID19_python_plot.ipynb]("./COVID19_python_plot.ipynb")
+
 - スライド  
 [【阪医Python会 2020新歓ハンズオン】COVID-19のデータを可視化してみよう - Speaker Deck](https://speakerdeck.com/ykohki/ban-yi-pythonhui-2020xin-huan-hanzuon-covid-19falsedetawoke-shi-hua-sitemiyou)
 
